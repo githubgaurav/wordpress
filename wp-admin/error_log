@@ -1,0 +1,2 @@
+[06-Aug-2015 09:55:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geetapoultry2015/public_html/bil/wp-content/themes/Divi/functions.php:82) in /home/geetapoultry2015/public_html/bil/wp-includes/option.php on line 772
+[06-Aug-2015 09:55:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geetapoultry2015/public_html/bil/wp-content/themes/Divi/functions.php:82) in /home/geetapoultry2015/public_html/bil/wp-includes/option.php on line 773
